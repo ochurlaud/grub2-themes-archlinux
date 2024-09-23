@@ -24,8 +24,8 @@ Archxion: [grub2-theme-archxion](https://aur.archlinux.org/packages/grub2-theme-
 Archlinux: [grub2-theme-archlinux](https://aur.archlinux.org/packages/grub2-theme-archlinux)  
 
 **Screenshots**  
-![Archinox Preview](/Preview/Archinox_preview.png|height=300)
-![Archlinux Preview](/Preview/Archlinux_preview.png|height=300)
+![Archinox Preview](/Preview/Archinox_preview.png)
+![Archlinux Preview](/Preview/Archlinux_preview.png)
 
 ## FAQ  
 
