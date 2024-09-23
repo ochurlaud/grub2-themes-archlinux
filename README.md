@@ -1,8 +1,8 @@
 ## Installation
 
 **Using git:**  
-<code>$ git clone git://github.com/Generator/Grub2-themes.git  
- \# cp -r Grub2-themes/{Archlinux,Archxion} /boot/grub/themes/</code>
+<code>$ git clone git://github.com/ochurlaud/grub2-themes-archlinux.git  
+ \# cp -r grub2-themes-archlinux/{Archlinux,Archxion} /boot/grub/themes/</code>
 
 **Edit your /etc/default/grub and change line:**  
 <code>\#GRUB_THEME="/path/to/gfxtheme"  
@@ -20,11 +20,11 @@ GRUB_GFXMODE=1024x768</code>
 <code>\# grub-mkconfig -o /boot/grub/grub.cfg</code>
 
 **Archlinux AUR:**  
-Archxion: [grub2-theme-archxion](https://aur.archlinux.org/packages.php?ID=59370)  
-Archlinux: [grub2-theme-archlinux](https://aur.archlinux.org/packages.php?ID=59643)  
+Archxion: [grub2-theme-archxion](https://aur.archlinux.org/packages/grub2-theme-archxion)  
+Archlinux: [grub2-theme-archlinux](https://aur.archlinux.org/packages/grub2-theme-archlinux)  
 
 **Screenshots**  
-<a href="https://github.com/Generator/Grub2-themes/blob/master/Preview/Archinox_preview.png"><img height=300 src="https://github.com/Generator/Grub2-themes/blob/master/Preview/Archinox_preview.png?raw=true"></a> <a href="https://github.com/Generator/Grub2-themes/blob/master/Preview/Archlinux_preview.png"><img height=300 src="https://github.com/Generator/Grub2-themes/blob/master/Preview/Archlinux_preview.png?raw=true"></a>  
+<a href="https://github.com/ochurlaud/grub2-themes-archlinux/blob/master/Preview/Archinox_preview.png"><img height=300 src="https://github.com/ochurlaud/grub2-themes-archlinux/blob/master/Preview/Archinox_preview.png?raw=true"></a> <a href="https://github.com/ochurlaud/grub2-themes-archlinux/blob/master/Preview/Archlinux_preview.png"><img height=300 src="https://github.com/ochurlaud/grub2-themes-archlinux/blob/master/Preview/Archlinux_preview.png?raw=true"></a>  
 
 ## FAQ  
 
@@ -69,5 +69,5 @@ Grub2 has some keyboard lag using themes, as referred on "[The Definitive Guide 
 
 
 ## Ideas or suggestions to share in:  
-[github issues](https://github.com/Generator/Grub2-themes/issues)  
+[github issues](https://github.com/ochurlaud/grub2-themes-archlinux/issues)  
 
