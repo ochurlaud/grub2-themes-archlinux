@@ -69,5 +69,5 @@ Grub2 has some keyboard lag using themes, as referred on "[The Definitive Guide 
 
 
 ## Ideas or suggestions to share in:  
-[github issues](https://github.com/Generator/Grub2-themes/issues)  
+[github issues](https://github.com/ochurlaud/grub2-themes-archlinux/issues)  
 
