@@ -24,8 +24,7 @@ Archxion: [grub2-theme-archxion](https://aur.archlinux.org/packages/grub2-theme-
 Archlinux: [grub2-theme-archlinux](https://aur.archlinux.org/packages/grub2-theme-archlinux)  
 
 **Screenshots**  
-![Archinox Preview](/Preview/Archinox_preview.png)
-![Archlinux Preview](/Preview/Archlinux_preview.png)
+<a href="https://github.com/ochurlaud/grub2-themes-archlinux/blob/master/Preview/Archinox_preview.png"><img height=300 src="https://github.com/ochurlaud/grub2-themes-archlinux/blob/master/Preview/Archinox_preview.png?raw=true"></a> <a href="https://github.com/ochurlaud/grub2-themes-archlinux/blob/master/Preview/Archlinux_preview.png"><img height=300 src="https://github.com/ochurlaud/grub2-themes-archlinux/blob/master/Preview/Archlinux_preview.png?raw=true"></a>  
 
 ## FAQ  
 
